@@ -1,0 +1,416 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+    <title data-i18n="pages.payment.title">Payment methods</title>
+    <meta content="" name="description" />
+    <meta content="" name="keywords" />
+
+    <!-- Favicons -->
+    <link href="assets/img/admiralbet fav icon copy.png" rel="icon" />
+    <link
+      href="assets/img/admiralbet fav icon copy.png"
+      rel="apple-touch-icon"
+    />
+
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+      rel="stylesheet"
+    />
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
+    <link
+      href="assets/vendor/bootstrap/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <link
+      href="assets/vendor/glightbox/css/glightbox.min.css"
+      rel="stylesheet"
+    />
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet" />
+
+    <style>
+      .tab-popup {
+        display: none;
+        position: fixed;
+        z-index: 9999;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0, 0, 0, 0.4);
+      }
+      .tab-popup-content {
+        background-color: #fefefe;
+        margin: 15% auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+        max-width: 600px;
+        border-radius: 8px;
+      }
+      .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+      }
+      .close:hover,
+      .close:focus {
+        color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="fixed-top" id="header">
+      <div class="container d-flex align-items-center justify-content-between">
+        <a class="logo" href="admiralbet.kg">
+          <img alt="" class="img-fluid" src="assets/img/logo.svg" />
+        </a>
+
+        <nav class="navbar" id="navbar">
+          <li class="dropdown language-switcher d-none d-md-block">
+            <a class="nav-link" href="#" id="desktop-lang-switcher">
+              <img
+                alt="English"
+                src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"
+                width="25px"
+              />
+              <i class="bi bi-chevron-down"></i>
+            </a>
+            <ul class="dropdown-content">
+              <li>
+                <a href="#" data-lang="en">
+                  <img
+                    alt="English"
+                    src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"
+                    width="25px"
+                  />
+                </a>
+              </li>
+              <li>
+                <a href="#" data-lang="ru">
+                  <img
+                    alt="Russian"
+                    src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+                    width="25px"
+                  />
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <div class="button1" id="back-button">
+            <a class="getstarted" href="https://www.admiralbet.kg">
+              <span data-i18n="header.backTo">Back to</span>
+              <img
+                alt=""
+                class="back-btn-image"
+                src="/assets/img/admiralbet fav icon copy.png"
+                width="25px"
+              />
+            </a>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <!-- ======= Hero Section ======= -->
+    <section
+      class="d-flex align-items-center"
+      id="hero"
+      style="margin-top: 0; padding: 0"
+    >
+      <div
+        class="container position-relative"
+        data-aos="fade-up"
+        data-aos-delay="100"
+      >
+        <a href="index.html" style="color: #124265">
+          <i
+            class="bi bi-arrow-left-circle position-absolute"
+            style="font-size: 2.6rem"
+          ></i>
+        </a>
+        <div class="row justify-content-center">
+          <div class="col-xl-7 col-lg-9 text-center">
+            <img
+              alt="Payment Logo"
+              height="100"
+              src="/assets/img/payment.png"
+              style="margin: 10px"
+              width="100"
+            />
+            <h1 data-i18n="pages.payment.title">Payment methods</h1>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======= Features Section ======= -->
+    <section class="features" id="features">
+      <div class="container">
+        <h3 data-i18n="pages.payment.sectionTitle">Deposits & Withdrawals</h3>
+
+        <ul class="nav nav-tabs row d-flex mb-4">
+          <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="100">
+            <a class="nav-link" data-bs-toggle="tab" href="#tab-dep-2">
+              <h4
+                class="d d-lg-block"
+                data-i18n="pages.payment.methods.numbapay.name"
+              >
+                NambaPay
+              </h4>
+            </a>
+          </li>
+
+          <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="200">
+            <a class="nav-link" data-bs-toggle="tab" href="#tab-dep-3">
+              <h4
+                class="d d-lg-block"
+                data-i18n="pages.payment.methods.cashdesk.name"
+              >
+                CashDesk
+              </h4>
+            </a>
+          </li>
+
+          <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="300">
+            <a class="nav-link" data-bs-toggle="tab" href="#tab-wd-13">
+              <h4
+                class="d d-lg-block"
+                data-i18n="pages.payment.methods.cashdeskWithdrawal.name"
+              >
+                CashDesk (Withdrawal)
+              </h4>
+            </a>
+          </li>
+        </ul>
+
+        <div class="tab-content" data-aos="fade-up">
+          <div class="tab-pane" id="tab-dep-2">
+            <div class="row">
+              <div class="col-lg-12 mt-3 mt-lg-0">
+                <h4 data-i18n="pages.payment.methods.numbapay.name">
+                  NambaPay
+                </h4>
+                <p>
+                  <span
+                    data-i18n="pages.payment.methods.numbapay.deposit.minimum"
+                    >Minimum deposit: 500 KGS</span
+                  ><br />
+                  <span
+                    data-i18n="pages.payment.methods.numbapay.deposit.maximum"
+                    >Maximum deposit: 100,000 KGS</span
+                  ><br />
+                  <span
+                    data-i18n="pages.payment.methods.numbapay.deposit.processingTime"
+                    >Processing time: Instant</span
+                  ><br />
+                  <span
+                    data-i18n="pages.payment.methods.numbapay.deposit.description"
+                    >You can deposit funds using NambaPay by selecting it as
+                    your payment method on the website and confirming the
+                    payment through the NambaPay app. Once the transaction is
+                    approved, the money will be credited to your account almost
+                    instantly.</span
+                  >
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="tab-pane" id="tab-dep-3">
+            <div class="row">
+              <div class="col-lg-12 mt-3 mt-lg-0">
+                <h4 data-i18n="pages.payment.methods.cashdesk.name">
+                  CashDesk
+                </h4>
+                <p>
+                  <span
+                    data-i18n="pages.payment.methods.cashdesk.deposit.minimum"
+                    >Minimum deposit: 500 KGS</span
+                  ><br />
+                  <span
+                    data-i18n="pages.payment.methods.cashdesk.deposit.maximum"
+                    >Maximum deposit: 1,000,000 KGS</span
+                  ><br />
+                  <span
+                    data-i18n="pages.payment.methods.cashdesk.deposit.processingTime"
+                    >Processing time: Instant</span
+                  ><br />
+                  <span
+                    data-i18n="pages.payment.methods.cashdesk.deposit.description"
+                    >Visit Casino Admiral and inform the operator that you want
+                    to top up your AdmiralBet account. You will need to provide
+                    your username and the amount you wish to deposit. You can
+                    find Casino Admiral on the 3rd floor of Sheraton Hotel in
+                    Bishkek.</span
+                  >
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="tab-pane" id="tab-wd-13">
+            <div class="row">
+              <div class="col-lg-12 mt-3 mt-lg-0">
+                <h4 data-i18n="pages.payment.methods.cashdeskWithdrawal.name">
+                  CashDesk (Withdrawal)
+                </h4>
+                <p>
+                  <span
+                    data-i18n="pages.payment.methods.cashdeskWithdrawal.withdrawal.minimum"
+                    >Minimum withdrawal: 1,000 KGS</span
+                  ><br />
+                  <span
+                    data-i18n="pages.payment.methods.cashdeskWithdrawal.withdrawal.maximum"
+                    >Maximum withdrawal: 5,000,000 KGS</span
+                  ><br />
+                  <span
+                    data-i18n="pages.payment.methods.cashdeskWithdrawal.withdrawal.processingTime"
+                    >Processing time: Up to 24 hours</span
+                  ><br />
+                  <span
+                    data-i18n="pages.payment.methods.cashdeskWithdrawal.withdrawal.description"
+                    >Visit Casino Admiral and inform the operator that you want
+                    to withdraw funds from your AdmiralBet account. You will
+                    need to provide your username and the amount you wish to
+                    withdraw. You can find Casino Admiral on the 3rd floor of
+                    Sheraton Hotel in Bishkek.</span
+                  >
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer id="footer">
+      <div class="footer-top">
+        <div class="container">
+          <div class="row">
+            <div class="container d-md-flex py-2">
+              <div class="me-md-auto text-center text-md-start">
+                <div class="copyright">
+                  &copy; <span data-i18n="footer.copyright">Copyright</span>
+                  <strong> <span>AdmiralBet</span></strong
+                  >.
+                  <span data-i18n="footer.allRightsReserved"
+                    >All Rights Reserved</span
+                  >
+                </div>
+              </div>
+              <div
+                class="position-relative social-links text-center text-md-right pt-3 pt-md-0"
+              >
+                <div
+                  class="position-absolute start-0 dropdown language-switcher d-md-none"
+                  style="top: 11px"
+                >
+                  <a
+                    aria-expanded="false"
+                    class="nav-link dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="#"
+                    id="mobile-lang-switcher"
+                  >
+                    <img
+                      alt="English"
+                      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"
+                      style="width: 1.5rem; height: 0.6rem"
+                    />
+                  </a>
+                  <ul class="dropdown-menu bg-transparent border border-0">
+                    <li class="mb-1">
+                      <a class="dropdown-item" href="#" data-lang="en">
+                        <img
+                          alt="English"
+                          src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"
+                          width="25px"
+                        />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#" data-lang="ru">
+                        <img
+                          alt="Russian"
+                          src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+                          width="25px"
+                        />
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+
+                <a
+                  class="facebook"
+                  href="https://www.facebook.com/profile.php?id=61585615324873"
+                >
+                  <i class="bx bxl-facebook"></i>
+                </a>
+                <a
+                  class="instagram"
+                  href="https://www.instagram.com/admiralbet.kyrgyzstan/ "
+                >
+                  <i class="bx bxl-instagram"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div id="preloader"></div>
+    <a
+      class="back-to-top d-flex align-items-center justify-content-center"
+      href="#"
+    >
+      <i class="bi bi-arrow-up-short"></i>
+    </a>
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="assets/js/i18n.js"></script>
+    <script src="assets/js/main.js"></script>
+
+    <!-- Custom JS for Popup -->
+    <div class="tab-popup" id="tab-popup">
+      <div class="tab-popup-content">
+        <span class="close">&times;</span>
+        <div id="tab-content-wrapper"></div>
+      </div>
+    </div>
+  </body>
+</html>

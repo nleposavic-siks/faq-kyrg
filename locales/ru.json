@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "title": "AdmiralBet - Центр Помощи"
+  },
+  "header": {
+    "backTo": "Назад к"
+  },
+  "footer": {
+    "copyright": "Авторское Право",
+    "allRightsReserved": "Все Права Защищены"
+  },
+  "pages": {
+    "home": {
+      "title": "ЦЕНТР FAQ",
+      "subtitle": "Все, что вам нужно знать о платформе!",
+      "services": {
+        "accountRegistration": "Регистрация Аккаунта",
+        "payment": "Способы Оплаты",
+        "betting": "Ставки на Спорт",
+        "casino": "Ставки в Казино",
+        "bonus": "Бонусы и Промоции",
+        "others": "Другое",
+        "verification": "Верификация",
+        "finance": "Финансы"
+      },
+      "contact": {
+        "title": "Служба Поддержки",
+        "subtitle": "Нужна Помощь?",
+        "contactUs": "Связаться с Нами",
+        "callUs": "Позвонить Нам",
+        "emailUs": "Написать Нам"
+      }
+    },
+    "accountRegistration": {
+      "meta": {
+        "title": "AdmiralBet - Центр Помощи"
+      },
+      "header": {
+        "backTo": "Назад к"
+      },
+      "footer": {
+        "copyright": "Авторское Право",
+        "allRightsReserved": "Все Права Защищены"
+      },
+      "pages": {
+        "accountRegistration": {
+          "title": "Регистрация Аккаунта",
+          "tabs": {
+            "tab1": {
+              "question": "Как мне зарегистрироваться?",
+              "answer": "Чтобы зарегистрироваться, начните с выбора уникального имени пользователя и подтверждения адреса электронной почты, затем создайте надежный пароль и нажмите «Далее», чтобы продолжить. На следующем экране введите свое полное имя, дату рождения и гражданство, обязательно приняв правила и условия, прежде чем нажать «Завершить Регистрацию». Наконец, завершите процесс, загрузив четкое селфи для подтверждения личности, чтобы ваш аккаунт был полностью активирован и готов к использованию."
+            },
+            "tab2": {
+              "question": "Могу ли я иметь более одного аккаунта?",
+              "answer": "Согласно нашим правилам и условиям, каждый игрок может создать только один аккаунт на свои личные данные."
+            }
+          }
+        }
+      }
+    },
+    "betting": {
+      "title": "Ставки на Спорт",
+      "tabs": {
+        "tab1": {
+          "question": "Как мне сделать ставку в разделе Спорт?",
+          "answer": "Чтобы сделать ставку на нашей платформе, перейдите в раздел Спорт. Выберите предпочтительное событие и выберите коэффициент на исход, на который вы хотите поставить — он автоматически появится в вашем купоне. Затем введите сумму, которую вы хотите поставить, и нажмите «Сделать Ставку» для подтверждения."
+        },
+        "tab2": {
+          "question": "Почему я не могу сделать ставку на конкретное событие?",
+          "answer": "Рынки для определенных событий могут быть временно заблокированы из-за изменения коэффициентов. По этой причине возможность сделать ставку на конкретное событие может быть временно недоступна."
+        },
+        "tab3": {
+          "question": "Что такое «Cash Out»?",
+          "answer": "Эта функция позволяет вам рассчитать ставку на определенную сумму до того, как событие, на которое вы поставили, завершится. Опция Cash Out может быть доступна не в течение всего матча, так как ее доступность зависит от таких факторов, как изменение коэффициентов или ход события."
+        },
+        "tab4": {
+          "question": "Что такое «Лайв ставка»?",
+          "answer": "Лайв ставка — это пари, заключаемое во время проведения матча. Лайв ставки доступны для многих видов спорта, таких как футбол, баскетбол или теннис, предлагая вам динамические коэффициенты на протяжении всей игры."
+        },
+        "tab5": {
+          "question": "Какие типы ставок я могу делать?",
+          "answer": "Вы можете делать различные типы ставок, включая одинарные ставки, экспрессы, системы или Лайв ставки. Вы можете изучить все доступные варианты ставок в разделе каждого вида спорта для получения дополнительной информации."
+        }
+      }
+    },
+    "casino": {
+      "title": "Ставки в Казино",
+      "casino": {
+        "title": "Ставки в Казино",
+        "tabs": {
+          "tab1": {
+            "question": "Как мне сделать ставку в разделе Казино?",
+            "answer": "Чтобы сделать ставку в разделе Казино, сначала войдите на нашу платформу и перейдите в зону Казино. Выберите игру, в которую хотите сыграть, откройте ее и выберите сумму, которую хотите поставить. Затем нажмите кнопку игры, и ваша ставка будет размещена автоматически."
+          },
+          "tab2": {
+            "question": "Какие провайдеры игр у вас представлены?",
+            "answer": "В разделе Казино вы можете изучить как выбор предлагаемых нами игр, так и список провайдеров, доступных на нашей платформе."
+          },
+          "tab3": {
+            "question": "Что такое видеослоты?",
+            "answer": "Видеослоты — это современные версии классических игровых автоматов, предлагающие динамичный и интерактивный игровой опыт. В отличие от традиционных слотов, видеослоты используют передовые технологии, обеспечивающие иммерсивные темы, захватывающую анимацию и захватывающие бонусные функции."
+          },
+          "tab4": {
+            "question": "Что такое Лайв Казино?",
+            "answer": "Лайв Казино — это специальный раздел, который предлагает реалистичный опыт казино с играми, проходящими в режиме реального времени под руководством профессиональных живых дилеров. Вы можете изучить широкий выбор игр в разделе «Лайв Казино»."
+          }
+        }
+      }
+    },
+    "payment": {
+      "title": "Способы Оплаты",
+      "sectionTitle": "Депозиты и Вывод Средств",
+      "methods": {
+        "numbapay": {
+          "name": "NambaPay",
+          "deposit": {
+            "minimum": "Минимальный депозит: 500 KGS",
+            "maximum": "Максимальный депозит: 100,000 KGS",
+            "processingTime": "Время обработки: Мгновенно",
+            "description": "Вы можете внести средства с помощью NambaPay, выбрав его в качестве способа оплаты на сайте и подтвердив платеж через приложение NambaPay. После одобрения транзакции деньги будут зачислены на ваш счет практически мгновенно."
+          }
+        },
+        "cashdesk": {
+          "name": "CashDesk",
+          "deposit": {
+            "minimum": "Минимальный депозит: 500 KGS",
+            "maximum": "Максимальный депозит: 1,000,000 KGS",
+            "processingTime": "Время обработки: Мгновенно",
+            "description": "Посетите Казино Admiral и сообщите оператору, что хотите пополнить свой счет AdmiralBet. Вам нужно будет предоставить свое имя пользователя и сумму, которую вы хотите внести. Вы можете найти Казино Admiral на 3-м этаже Sheraton Hotel в Bishkek."
+          }
+        },
+        "cashdeskWithdrawal": {
+          "name": "CashDesk (Вывод Средств)",
+          "withdrawal": {
+            "minimum": "Минимальный вывод: 1,000 KGS",
+            "maximum": "Максимальный вывод: 5,000,000 KGS",
+            "processingTime": "Время обработки: До 24 часов",
+            "description": "Посетите Казино Admiral и сообщите оператору, что хотите вывести средства со своего счета AdmiralBet. Вам нужно будет предоставить свое имя пользователя и сумму, которую вы хотите вывести. Вы можете найти Казино Admiral на 3-м этаже Sheraton Hotel в Bishkek."
+          }
+        }
+      }
+    },
+    "verification": {
+      "title": "Верификация",
+      "tabs": {
+        "tab1": {
+          "question": "Как мне верифицировать свой аккаунт?",
+          "answer": "По закону вы обязаны подтвердить свой аккаунт только при первом выводе средств или при достижении установленного законом лимита на депозит."
+        }
+      }
+    },
+    "bonus": {
+      "title": "Бонусы и акции",
+      "tabs": {
+        "tab1": {
+          "question": "Получу ли я приветственный бонус при регистрации?",
+          "answer": "При регистрации каждый новый клиент получает право участвовать в приветственных предложениях, доступных на нашей платформе. Точные бонусы и условия могут меняться со временем, поэтому мы рекомендуем проверять текущие активные акции на нашей странице акций.<br />Вы можете просмотреть все текущие акции здесь: <a href=\"https://www.admiralbet.kg/promotions\">https://www.admiralbet.kg/promotions</a>"
+        },
+        "tab2": {
+          "question": "Могу ли я получить только один приветственный бонус?",
+          "answer": "Каждый клиент может получить приветственные бонусы только один раз. Все приветственные предложения ограничены однократным использованием на игрока в соответствии с нашими условиями акций.<br />Для получения информации о последних доступных приветственных и других акциях, пожалуйста, посетите: <a href=\"https://www.admiralbet.kg/promotions\">https://www.admiralbet.kg/promotions</a>"
+        },
+        "tab3": {
+          "question": "Какие еще бонусы предлагаются?",
+          "answer": "Наша платформа предоставляет широкий выбор бонусов как для разделов Казино, так и для Спорта. Чтобы узнать, какие предложения доступны для вашего аккаунта, вы можете получить доступ к меню «Мои бонусы»."
+        },
+        "tab4": {
+          "question": "Все ли предложения основаны на депозите?",
+          "answer": "Каждая акция имеет свои правила и условия активации. Также возможно получить бездепозитные бонусные предложения."
+        },
+        "tab5": {
+          "question": "Получу ли я персонализированные бонусные предложения?",
+          "answer": "Решения относительно персонализированных бонусных предложений принимаются нашим отделом бонусов на основе различных факторов. Если ваш профиль имеет право на такое предложение, оно появится в разделе «Мои бонусы»."
+        },
+        "tab6": {
+          "question": "Могу ли я вывести сумму с активного бонуса?",
+          "answer": "Чтобы вывести средства с вашего бонусного баланса, вы должны сначала выполнить требования по отыгрышу предложения. После выполнения этих условий бонусная сумма будет переведена на ваш реальный баланс, после чего вы можете запросить вывод средств."
+        },
+        "tab7": {
+          "question": "Игры, исключенные из акций",
+          "answer": "<p><strong>Общие ограничения</strong></p><p><strong>3 Oaks Gaming</strong><br>Все игры</p><p><strong>BGaming:</strong><br>Adventures, Balloon Mania, Blackbeard's Bounty, Candy Monsta, Catch the Gold Hold And Win, Cat's Soup, Dragon's Gold 100, Fortune Spin, God of Wealth Hold And Win, Hit The Route, Infinity Pull, Johnny Cash, Maneki 88 Gold, Mice & Magic Wonder Spin, Minesweeper, Plinko 2 Halloween, Road 2 Riches, Sugar Mix, Tile Master, WBC Ring of Riches, Wild Heart, Wild West Trueways</p><p><strong>Endorphina:</strong><br>3 Witch Pots, 2025 Hit Slot, Amazons Riches, Burning Coins 40, Book of Ganesha, Crown Coins, Crown Coins Dice, Fortune Snake, Fortune Stars, Golden Brew, Golden Ox, Jade Coins, Janisaries, Joker Ra: Sunrise, Lord of the Seas, Lucky Streak 1000, Lucky Streak X, Moon Tiger, Ninja, Oriental Dragon, Prestige Crown, Sticky Lips, Jolly Santa</p><p><strong>Hacksaw Gaming:</strong><br>Stick'Em</p><p><strong>PlaynGo:</strong><br>1001 Mystery Genie Fortunes, 3 Clown Monty 2, 15 Crystal Roses: A Tale of Love, Baker's Treat, Bubblin' Riches, Cat Wilde and The Incan Quest, Chambers of Ancients, City of Sound, Crabby's Gold, Eye of the Kraken, Fangs & Fire, Fire Joker Blitz, Fulong 88, GEMiX, Gerard's Gambit, Golden Legend, Happy Halloween, Helloween, Hugo 2, Lab of Madness It's A-Wild!, Legion Gold Victory, Love is in the Fair, Loot & Labyrinths, Mahjong 88, Moon Princess, Moon Princess 100, Moon Princess Stargazing, Multifruit 81, Pearls of India, Piggy Blitz Disco Gold, Pimped, Rage to Riches, Rich Wilde and the Pearls of Vishnu, Royal Masquerade, Sea Hunter, Stadium of Riches, Tower Quest, Viking Runecraft</p><p><strong>Playson:</strong><br>Все игры</p><p><strong>Spinomenal:</strong><br>1 Reel Aztec Spell, 1 Reel Baba Yaga, 1 Reel Beauty, 1 Reel Buffalo, 1 Reel - Caribbean Treasure, 1 Reel: Cash Vault, 1 Reel Demi Gods II, 1 Reel Demi Gods III, 1 Reel Demi Gods IV, 1 Reel Egypt, 1 Reel Elves, 1 Reel Fruits, 1 Reel Golden Piggy, 1 Reel Halloween, 1 Reel Hawaiian Bliss, 1 Reel Joker, 1 Reel Mammoth, 1 Reel Monkey, 1 Reel Panther, 1 Reel Patrick, 1 Reel Shamrock, 1 Reel Thanksgiving, 1 Reel Xmas, Alice's Wonder Tale, Aztec Spell, Beer Collection - 20 Lines, Beer Collection - 30 Lines, Book of Alice, Book Of Demi Gods III, Book Of Rebirth, Book of The Divine, Colossus Fruits, Comic Craze, Demi Gods III, Egyptian Rebirth II, Gangster's Gold, Goddess Of Lotus, Goddess Of Lotus- 10 Lines, Magical Amazon, Penny Fruits Xtreme, Queen Of Fire, Spinning Beers, Story of the Samurai</p><p><strong>Spribe:</strong><br>Aviator</p><p><strong>VoltEnt:</strong><br>Все игры</p><p><strong>Игры с покупкой бонуса:</strong><br>Book Of Spells, Crystal Hot 40 Free Spins, Book of Luxor Double, El Grande Toro, Book Of Spells 2, Wild Lucky Clover, Bonus Bells, KING OF THUNDER, Buddha Megaways, Book of Sun - Choice, Dark Wolf, The Ankh Protector, Book Of Demi Gods IV, Book Of Panther, Wolf Fang - Iron Wolf, Savannah's Queen, Book of Sirens, Mammoth Rampage, Egyptian Ways, Lucky Jack - Lost Jungle, Majestic Winter, Reels of Rio, Book of Wolves, Golden Piggy Bank, Wild Penguin, Ded Moroz II, Santa's Wild Night, Blue Panther, Story Of Vikings, Lucky Jack - Tut's Treasures, Fortuna de los Muertos II, Book Of Horror, Gangsters Gold, Book Of Rampage, Times Of Egypt, Western Tales, Titan's Rising, Wolf Fang, Trojan Tales, Egyptian Eclipse, Book Of Demi Gods III, Joker Win, Story of The Samurai, Age of Pirates, Book of Champions, African Rampage, Queen Of Fire, Lucky Mr. Patrick, Book Of Clovers, Buffalo Rampage, Book Of The Divine, Queen Of Ice, Goddess Of Lotus, Poseidon's Rising, Ded Moroz, Book Of Xmas, Kitsune's Scrolls, Luxury Club, Hallow Reels, Story Of Egypt, Spinning Beers, Book Of Tribes, 4 Horsemen II, Demi Gods IV, Book Of Diamonds, Magical Amazon, Book Of Demi Gods II, Aztec Spell, African Fortune, Origins Of Lilith, Lucky Mrs Patrick, Book Of Rebirth, Nova Gems, Egyptian Rebirth 2, Story Of Medusa, Nights Of Magic, Irish Treasures, Demi Gods III, Story of Hercules, Colossus Fruits, Nights Of Egypt, Majestic King, 4 Horsemen, Demi Gods II, Book Of Champions - World Glory, Book Of Demi Gods IV - Thunderstorm, Book Of Piggy Bank - Riches, Book Of Elves, Book Of Xmas - Jingle Bells, Wild Santa 2, Reindeer Rampage, Joker's Charms - Xmas, Xmas - Chase'N'Win, Story Of Medusa II, Wolf Fang - Snowfall, Snowing Gifts, Majestic Winter - Avalanche, Book Of Rampage 2, Frozen Fruits - Chase'N'Win, Wolf Fang - The Polar Lights, Story Of Egypt - Egyptian Darkness, Times Of Egypt - Egyptian Darkness, Lucky Jack - Book Of Rebirth, The Ankh Protector - Egyptian Darkness, Lucky Jack - Dagger Of Destiny, Book Of Baba Yaga - Winter Spell, Book Of The Divine - Egyptian Darkness, Werewolf - The Hunt, Joker Charms - Valentine's, Book Of Aphrodite - The Love Spell, Wolf Fang - Underworld, Irish Treasures - Leprechaun's Fortune, Pigeons from Space, Return To The Feature, Christmas Gift Rush, Golden Unicorn Deluxe, Laughing Buddha, WILD HOT 40 FREE SPINS, Wild Lucky Clover 2, Rainbowmania, Tuk Tuk Thailand, Dragon Wealth, Wolf Fang - Treasure Island, Koschei The Deathless, Majestic White Rhino, Book of Majestic King, Story of Loki - Master of Illusions, Lady Fortune, Mythical Creatures Of Greece, Wolf Fang - The Origins, Sakura Fortune 2, Story Of The Little Mermaid, Ra's Golden Loot, Witches Tome, Story Of Love - Aphrodite's Spell, Queen Of The Forest - Night Whispers, Coin Volcano, 100 Zombies (Dice), Riches Of Caliph, 2023 Hit Slot, Cash Streak, Fruletta Dice, Lucky Cloverland Dice, Giant Wild Goose Padoga, Lord of the Seas, Story Of Jarptitsa, Argonauts, Demi Gods V, Wolf Fang - Ancient Greece, Queen Of Water, Trout's Treasure - Deep Water, Book Of Fairytale Beauties, Atomic Kittens, Trout's Treasure - Payday, Story of Gaia, Sugar Drop XMAS, Lil' Santa Bonus Buy, Into The Jungle Bonus Buy, Pop & Drop, Book Of Ancients, Max Miner, Cave of Xmas, Cave of Gold, Gift Rush, Soccermania, Wild Cash, Book of Cats, Book of Kemet, Dig Dig Digger, Lucky Oak, Wild Cash x9990, Penny Pelican, Aloha King Elvis, Domnitor's Treasure, Easter Heist, Royal High-Road, Gold Rush - Johnny Cash, Miss Cherry Fruits Jackpot Party, Joker Queen, Road2Riches, Maneki 88 Gold, Big Atlantis Frenzy, Gangsterz, Potion Spells, Aztec Magic Megaways, Book of Cats Megaways, Lady Wolf Moon Megaways, Sweet Rush Megaways, Aztec Magic Bonanza, Beer Bonanza, Alien Fruits, Bonanza Billion, Clover Bonanza, Halloween Bonanza, Lucky Farm Bonanza, Elvis Frog TRUEWAYS, Lucky Crew, Savage Buffalo Spirit, Gemhalla, Wild Chicago, Beast Band, Dice Bonanza, Luck & Magic, Savage Buffalo Spirit Megaways, Wild Cash Dice, Maneki 88 Fortunes, Bone Bonanza, Mice & Magic, Book of Rebirth Extreme, Meow Janken, Fresh Crush, Wolf Fang - Supermoon, Trout's Treasure - Wild Rivers, Holidays Joker - Halloween, Dracula - The Hunt, Fruitfellas: Fortune Wheel, Slime Party, Book of Spinoween, Queen Of The Forest - Autumn Kingdom, 3 Hot Chillies, Dia de Los Muertos 2, Fortuna De Los Muertos 3, Book Of Titans, Fruity Halloween, Wolf Fang - Eclipse, Merge Up, Baba Yaga Tales - Mystic Fortune, Trout's Treasure Fishing Season, Book Of Panda, Wolf of Wild Street, Zeus Deluxe, Legacy Of Tombs, PiggyBank - Stacked Fortune, Tramp Day, Majestic Wild Buffalo, Book of PiggyBank - Black Friday, Luxury Club - Vip Room, Santa's Inn, Book of Elves 2, Wild Santa 3, Trout's Treasure Wild Christmas, Book of Xmas 2, Gangsters Gold - Royal Riches, Horizon Hunters, Majestic King - Ice Kingdom, Demi Gods II Christmas Edition, Demi Gods IV Christmas Edition, Megacity, Snowing Gifts 2, Hottest 666, Holidays Joker - Xmas, Chaos Crew, Mystery Motel, Cubes 2, Aztec Twist, Frutz, Stack 'Em, Hop'n'Pop, Xpander, Toshi Video Club, Rocket Reels, Wanted Dead or a Wild, Cash Quest, Tasty Treats, Joker Bombs, King Carrot, Harvest Wilds, The Bowery Boys, Double Rainbow, Warrior Ways, Gladiator Legends, Hand of Anubis, ITERO, Buffalo Stack'n'Sync, Outlaws Inc., Born Wild, Dork Unit, Fruit Duel, Time Spinners, Forest Fortune, Alpha Eagle, Undead Fortune, Break Bones, Pug Life, Book of Time, Gronk's Gems, Rotten, RIP City, Frank's Farm, Bloodthirst, Magic Piggy, Keep 'em Cool, Stormforged, Cursed Seas, Mayan Stackways, Temple of Torment, Mighty Masks, Beast Below, Vending Machine, Drop'em, Ronin Stackways, Le Bandit, Densho, Chaos Crew II, Benny the Beer, Eye of the Panda, Immortal Desire, Xmas Drop, Dark Summoning, Queen of Water - Tides of Fortune, Snegurochka & Ded Moroz, Snow White's Magic Quest, 2 Wild 2 Die, Queen Of Ice - Winter Kingdom, Wolf Fang - The Wild Snow, Book Of Wisdom, Gemza, Slot Machine, Dracula - Unleashed, Keepers of the Secret, Story of Zeus, Majestic Winter - Polar Adventures, God Of Wealth, Coin UP, Book Of Demi Gods V, Feel the Beat, Totem de Oro, Fruity Mayan, Wild Heart, Wild Dragon Riches, Book Of Loki - Master Of Illusions, Beam Boys, Aztec Clusters, Holidays Joker - Valentines, Mardi Gras Fortunes, Pop Zen, Lucky 8 Merge Up, Story Of The Samurai - Blade Of Destiny, Hot Hot Summer, Book Of Hercules - A Legendary Quest, Fist of Destruction, Night Wolf - Frozen Flames, Lunar Goddess, Vampire's Fate, Magical Leprechaun, Irish Treasures - Wild Celtic Charms, 2023 Hit Slot Dice, Dawn Of Kings, Queen Of Shadows, Book Of Clovers - Extreme, Book of Conquistador, Frozen Yeti, Holidays Joker - St. Patrick's Day, Bouncy Bombs, Diamond of Jungle, Trout's Treasure - Countryside Quest, Legend Of Lilith, Rusty & Curly, Book Of 4 Horseman, 3 Kings Scratch, Cash Crew, Dracula - Darkest Flame, Book Of Savannah's Queen, Raiders of the North, Bonus Epic Crown, Wolf Fang - The Spring Awakening, Trout's Treasure - Caribbean Catch, Queen Of The Amazon, Orb of Destiny, Ra's Golden Loot - Sapphire Suns, Rainbow Odyssey, Divine Drop, Fairytale Beauties - Daydream Fantasy, Lucky Dragon MultiDice X, OOF, Mega Wild Fruits, Keep'em, Book Of Rampage - A Moonlight Tale, Sticky Bandits Roulette Live, Snow White's Magical Spring, Fishin' Bear, Dreams Of Cleopatra, Majestic Wild Buffalo - Dusk Till Dawn, Chicken Rush, Quest To The Underworld, Jelly Slice, Wolf Fang - Nights of Magic, Panda Luck, Temple of Ra, Solar Odyssey, Slayers Inc, Book Of The Last Ronin, Book Of Champions - European Glory, Super Miner - Golden Treasure, Adventures, Age Of Cronus, Tales of Camelot, Super Sticky Piggy, Gold Of Minos, Megacity Football Fever, Cursed Crypt, Leshy's Magical Forest, Mexican Coins: Cash Up, Wolf Fang - Apocalypse, Walz Beauty, Atlas Unleashed, Dragon Age, Sky Coins, Trout's Treasure - Mystic River, Ze Zeus, Sweet Flips Sugar, Book of Trojan Tales, Alien Fruits 2, Koi Koi Treasure, Twisted Lab, Wild Sailors - Tides of Adventure, Celestial Conquest, Demi Gods V - A Moonlit Oath, Tai the Toad, Athena's Glory - Twilight Of The Gods, Wolf Fang - Crystal Caves, Candy Roll, Wolves! Cash Collect & Link, Majestic Claws, Gold Magnate, Coin UP: Lightning, SixSixSix, Super Miner - Silver Fortunes, Raging Wings, Secret Bar Multidice X, Book Of Majestic Wild Buffalo, Red Hot Chilli, Olympian Throne, Glory of Rome, 9 Dragin Balls Cash Up, Book Of Mystic Revelations, Dragon's Domain, Wild West Trueways, Majestic Blue Panther, Cave Of Gems, Western Tales - Bounty Pursuit, Catch The Gold: Hold & Win, Treasures Of The Trident, Haunted Harbor, Donny Dough, Circuit Shock, Tales Of Camelot - Moonlit Quest, Xtreme Fire Blaze Roulette, Wolf Fang - Western Tales, Kraken's Hunger, Rooster Mayhem, Fear the Dark, Book Of Atlas, Train To Rio Grande, Demi Gods V - Hold & Hit, Lucky Penny, Grand Patron, Capy Park, Mega Wild Fruits - On Fire, Road 2 Cash, Octo Attack, Majestic Spirit, Wolf Fang - Shadow Realm, Baba Yaga Tales - Haunted Hollows, Cash Streak Dice, Evil Eyes, Queen Of The Amazon - Nightcrawler, Sweet n' Juicy, Voodoo People, Bavarian Riches 2, Fortuna Trueways, Trout's Treasure - Egyptian Catch, Buffalo Rampage - Hold & Hit, Le Pharaoh, Book Of Ocean Outlaws, Wild Stock, Cyclops Unchained, Panda Strike, Cloud Princess, Lucky Bass: Mega Cash Collect, Quad Link Red, Joker's Wild Ride - Halloween, Spin4Dead, Carnival Bonanza, Cyber Wolf Dice, Fire Blaze: Sky Queen Megaways, Gold Hit: Lil Demon, Lockdown Loot, Lucky Gift: Cash Collect, Fairytale Beauties 2, Get the CHEESE, Vikings Way, Sweet N Juicy, Merlin's Mirage, Haunted Reels, Night Wolf - Frostbite Fury, Athena's Glory - Hold & Hit, Rise of Ymir, 4 Horsemen 3, Poseidon</p>"
+        }
+      }
+    },
+    "finance": {
+      "title": "Финансы",
+      "tabs": {
+        "tab2": {
+          "question": "Как мне внести депозит?",
+          "answer": "Войдите на нашу платформу – AdmiralBet, затем выберите меню «Депозит». Выберите предпочтительный метод и следуйте описанным шагам."
+        },
+        "tab3": {
+          "question": "Как мне запросить вывод средств?",
+          "answer": "Чтобы запросить вывод средств, войдите на нашу платформу – AdmiralBet, затем выберите меню «Вывод Средств». Выберите предпочтительный метод вывода и следуйте описанным шагам."
+        },
+        "tab4": {
+          "question": "Должен ли мой аккаунт быть верифицирован для запроса вывода средств?",
+          "answer": "Да, ваш аккаунт должен быть полностью верифицирован, чтобы запросить вывод средств."
+        },
+        "tab5": {
+          "question": "Сколько времени занимают депозиты и выводы средств?",
+          "answer": "Депозиты обычно зачисляются мгновенно на игровой счет, хотя возможны небольшие задержки при депозитах, сделанных через Банковский Перевод или Дебетовую/Кредитную Карту. Вывод средств занимает от 2 до 5 рабочих дней для обработки и утверждения, в то время как вывод через Банковский Перевод может занять от 2 до 10 рабочих дней."
+        },
+        "tab7": {
+          "question": "Каковы минимальные и максимальные суммы для депозитов и выводов?",
+          "answer": "Каждый метод имеет индивидуальные лимиты для минимальных и максимальных депозитов и выводов. Все лимиты на депозит отображаются после выбора конкретного метода депозита. То же самое относится и к выводам — вы увидите доступные лимиты после выбора метода вывода."
+        },
+        "tab8": {
+          "question": "Почему мой депозит/вывод был отклонен?",
+          "answer": "Может быть несколько причин отклонения транзакции, таких как недостаточное количество средств, неправильно введенные данные или наложенные ограничения. Для получения более подробной информации, пожалуйста, свяжитесь со службой поддержки клиентов."
+        },
+        "tab9": {
+          "question": "Взимаются ли комиссии за депозиты и выводы?",
+          "answer": "Организатор не взимает никаких комиссий за депозиты или выводы. Все транзакции бесплатны с нашей стороны. Любые комиссии, которые могут применяться, будут взиматься вашим банком."
+        }
+      }
+    },
+    "others": {
+      "title": "Другое",
+      "tabs": {
+        "tab1": {
+          "question": "Как я могу сбросить свой пароль?",
+          "answer": "Если вы забыли свой пароль, вы можете воспользоваться опцией «Забыли Пароль», расположенной под кнопкой «Войти». Вам нужно будет ввести свой адрес электронной почты, и вам будет отправлен код, который вы сможете использовать для сброса пароля."
+        },
+        "tab2": {
+          "question": "Могу ли я изменить адрес электронной почты в своем профиле?",
+          "answer": "Да, вы можете изменить адрес электронной почты, привязанный к вашему игровому профилю. Для этого вам нужно будет связаться с нашим центром поддержки для получения помощи."
+        },
+        "tab3": {
+          "question": "Что мне делать, если игра не загружается?",
+          "answer": "Если у вас возникли проблемы с доступом к игре на нашей платформе, очистите кэш-память вашего устройства. Если проблема не устранена, попробуйте зайти в игру из другого браузера или устройства. Если проблема все еще не решена, свяжитесь с нашим центром поддержки для получения дальнейшей помощи."
+        },
+        "tab4": {
+          "question": "Возможно ли исчезновение средств с моего счета?",
+          "answer": "Баланс вашего счета может измениться после того, как вы сделаете ставку или запросите вывод средств. Если вы подозреваете, что кто-то другой имеет доступ к вашему аккаунту, немедленно смените пароль."
+        },
+        "tab5": {
+          "question": "Могу ли я играть в демо-версии игр?",
+          "answer": "Да, у вас есть возможность получить доступ к демо-версии каждой игры, чтобы изучить ее и узнать правила перед игрой на реальные средства. Кнопка демо-версии расположена рядом со стандартной кнопкой игры."
+        },
+        "tab6": {
+          "question": "Как я могу связаться со службой поддержки?",
+          "answer": "Наша служба поддержки доступна 24/7 по адресу: <ul><li>WhatsApp: <a href=\"https://wa.me/996880887788\" target=\"_blank\">https://wa.me/996880887788</a></li><li>E-mail: <a href=\"mailto:support@admiralbet.kg\">support@admiralbet.kg</a></li><li>Телефон: <a href=\"tel:+996880887788\">+996 880 88 77 88</a></li></ul>"
+        },
+        "tab7": {
+          "question": "Где я могу изменить язык платформы?",
+          "answer": "В правом нижнем углу сайта вы найдете кнопку выбора языка, которая позволяет вам выбрать предпочтительный язык."
+        }
+      }
+    }
+  }
+}
